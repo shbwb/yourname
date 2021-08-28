@@ -1,4 +1,4 @@
-【zh-cn｜中文简体】
+[【zh-cn｜中文简体】](https://)
 # yourname
 A repository for the film Kiminona(your name).
 
