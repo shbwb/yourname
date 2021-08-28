@@ -12,7 +12,10 @@ var gitalk = new Gitalk({
   owner: 'qbsz', 
   admin: ['qbsz'], 
   id: location.pathname,
-  distractionFreeMode: false 
+  distractionFreeMode: false
+})
+
+gitalk.render('gitalk-container')
 </script>
 <style>
 .sticky {
