@@ -1,4 +1,4 @@
-[【zh-cn｜中文简体】](https://)
+[【zh-cn｜中文简体】](https://github.com/shbwb/yourname/blob/main/README-zh.md)
 # yourname
 A repository for the film Kiminona(your name).
 
