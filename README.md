@@ -7,3 +7,5 @@ A repository for the film Kiminona(your name).
 * [Help us](https://github.com/shbwb/yourname/fork) -- put your manuscript in a specific folder and submit it through Pull-Request. You will be thanked for your participation in this work!!!
 
 * Maintain the comments - Warn malicious commenters in the comments area, send me their names, and I'll blacklist him.
+
+* Bug fixer
