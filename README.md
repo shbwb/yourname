@@ -8,4 +8,4 @@ A repository for the film Kiminona(your name).
 
 * Maintain the comments - Warn malicious commenters in the comments area, send me their names, and I'll blacklist him.
 
-* Be bug fixer -- fix the bugs in the html files.
+* Be a bug fixer -- fix the bugs in the html files.
