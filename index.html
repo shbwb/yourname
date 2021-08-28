@@ -31,6 +31,17 @@
     max-width: 1180px;
   }
 }
+a {
+  text-decoration:none;
+  color:#4da3ff;
+}
+a:hover {
+  color: #004da1;
+  text-decoration: underline;
+}
+a[href^="http"]:empty::before {
+  content: attr(href);
+}
 .header {
   background: #585858;
   color: #eee;
