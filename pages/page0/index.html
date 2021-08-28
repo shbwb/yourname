@@ -3,18 +3,12 @@
   <title>第零章--项目简介</title>
 </head>
 <style>
-.sit-foot {
-  position: fixed;
-  left: 0px;
-  bottom: 0px;
-  z-index: 1;
-}
-.sit-head {
-  position: fixed;
-  left: 0px;
-  top: 0px;
-  width:100%;
-  z-index: 1;
+.sticky {
+  position: -webkit-sticky;
+  position: -o-sticky;
+  position: -moz-sticky;
+  position: sticky;
+  top: 0;
 }
 .navbar {
   overflow: hidden;
@@ -80,7 +74,7 @@ a[href^="http"]:empty::before {
 }
 </style>
 <body>
-  <div class="sit-head">
+  <div class="sticky">
     <div class="navbar">
       <a href="/yourname">首页</a>
     </div>
