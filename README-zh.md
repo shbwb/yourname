@@ -1,3 +1,4 @@
+[【en｜English】](https://github.com/shbwb/yourname/blob/main/README.md)
 # “你的名字”
 一个为电影君名建立的仓库
 
